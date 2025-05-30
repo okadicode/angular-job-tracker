@@ -1,6 +1,7 @@
 # Angular Job Tracker App
 
 This is a simple Job Tracker application built using Angular 15+ and TypeScript. The app helps users keep track of job applications by allowing them to add, update, and remove job entries with form validation and status filtering.
+This project also demonstrates SEO-friendly structure and includes setup for Google Analytics 4 (GA4) integration to track user interactions.
 
 ## Features
 
